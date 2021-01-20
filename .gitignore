@@ -1,3 +1,5 @@
 *.avi
 struct of game.txt
 *.wav
+*.exe
+*.EXE
