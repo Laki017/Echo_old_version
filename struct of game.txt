@@ -1,0 +1,67 @@
+1-й этап  ¬’ќƒ
+
+check0
+timevaluestart1
+check0_1
+
+2-й этап  √уометри€
+
+timevalue1
+check0_2
+
+3-й этап  ƒ»јЋќ√
+
+timevalue1_1
+check0_3
+timevalue1_2
+
+4-й \тап  ѕ–ќ∆≈ “ќ–џ
+
+timevalue1_3
+check1
+fonarcheck (fonartimer)
+
+5-й этап “≈–ћ»ЌјЋ
+
+
+6-й этап
+
+timevalue3_1
+check3_1
+
+7-й этап
+
+timevalue4_4flag если решили номер дома
+timevalue4_2flag если не решили номер дома
+check4_0
+
+8-1 этап
+
+timevalue4_3flag
+check4
+
+
+9-й этап
+timevalue5    
+check5
+
+10-й этап
+timevalue6
+check6_1
+
+11-й этап
+timevalue7
+
+
+       memorycount=memorycount + 15;
+
+        timevalue7flag=false;
+        timevalue7_1flag=true;
+        timevalue7_1=timercount + 175;
+        check6_1=false;
+        FMyThread1->size[1]=108;
+     
+   }
+
+
+
